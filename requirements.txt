@@ -1,0 +1,40 @@
+# ============================================
+# ML STACK FOR PYTHON 3.14 ONLY
+# ============================================
+# This uses flexible versioning to find Python 3.14 compatible packages
+
+# Core Data Science
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter
+jupyter
+jupyterlab
+notebook
+ipython
+
+# Deep Learning (PyTorch has Python 3.14 support)
+torch
+torchvision
+torchaudio
+
+# NLP
+transformers
+nltk
+
+# Gradient Boosting
+xgboost
+lightgbm
+
+# Utilities
+requests
+tqdm
+python-dotenv
+joblib
